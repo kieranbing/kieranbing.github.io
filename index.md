@@ -4,7 +4,7 @@ This is a site I built with gh-pages for my [Crafting Digital Histories class at
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
-![gif ftw](https://github.com/kieranbing/Digi-History_Week-Four/blob/master/journal.md)
+![gif ftw](https://media.giphy.com/media/oeGgcmHVHLVCg/giphy.gif)
 
 ### Journals 
 - [Journal #1](https://github.com/kieranbing/Digi-Hist_Week-One/blob/master/journal.md)
