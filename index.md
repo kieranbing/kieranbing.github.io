@@ -1,4 +1,4 @@
-## My Quick Static Site
+## Testing
 
 This is a site I built with gh-pages for my [Crafting Digital Histories class at Carleton](https://carleton.ca/history/undergraduate/courses/summer-courses/hist-3814o/). **Wow**
 
