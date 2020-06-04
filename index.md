@@ -14,3 +14,11 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 - [Journal #3](https://github.com/kieranbing/Digi-Hist_Week-Three/blob/master/journal.md)
 - [Journal #4](https://github.com/kieranbing/Digi-History_Week-Four/blob/master/journal.md)
 - [Journal #5]()
+
+### README
+<html>
+<body>
+<div>
+<iframe src="https://kieranbing.github.io/README.md" frameborder="0" width="100%" height="800"></iframe>
+</div></body>
+</html>
