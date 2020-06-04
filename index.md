@@ -1,4 +1,4 @@
-## My Quick Static Site
+## Testing
 
 This is a site I built with gh-pages for my [Crafting Digital Histories class at Carleton](https://carleton.ca/history/undergraduate/courses/summer-courses/hist-3814o/). **Wow**
 
@@ -14,3 +14,11 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 - [Journal #3](https://github.com/kieranbing/Digi-Hist_Week-Three/blob/master/journal.md)
 - [Journal #4](https://github.com/kieranbing/Digi-History_Week-Four/blob/master/journal.md)
 - [Journal #5]()
+
+### README
+<html>
+<body>
+<div>
+<iframe src="https://kieranbing.github.io/README.md" frameborder="0" width="100%" height="800"></iframe>
+</div></body>
+</html>
