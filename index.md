@@ -6,6 +6,8 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 ![gif ftw](https://media.giphy.com/media/oeGgcmHVHLVCg/giphy.gif)
 
+^ You're welcome for that one.
+
 ### Journals 
 - [Journal #1](https://github.com/kieranbing/Digi-Hist_Week-One/blob/master/journal.md)
 - [Journal #2](https://github.com/kieranbing/Digi-Hist_Week-Two/blob/master/journal.md)
