@@ -13,7 +13,7 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 - [Journal #2](https://github.com/kieranbing/Digi-Hist_Week-Two/blob/master/journal.md)
 - [Journal #3](https://github.com/kieranbing/Digi-Hist_Week-Three/blob/master/journal.md)
 - [Journal #4](https://github.com/kieranbing/Digi-History_Week-Four/blob/master/journal.md)
-- [Journal #5]()
+- [Journal #5](https://github.com/kieranbing/Digi-Hist_Week-5/blob/master/journal.md)
 
 ### Map
 <div>
